@@ -6,7 +6,7 @@ Loseless Image Compressor built using huffman algorithm. <br/>
 gcc -o huffman huffman.c
 For executing the code enter
 ./huffman
-Replace the image with bmp format image of your choice. However, remember to keep the fiel name as "imafe_file.bmp".
+Replace the image with bmp format image of your choice. However, remember to keep the file name as "image_file.bmp".
 </pre>
 
 # References and Acknowledgements
